@@ -17,10 +17,14 @@ zadanie3 zad3 = new zadanie3();
 zad3.wykonaj();
 
 
-//OPERATORY
+//OPERATORY-----------------------------------------------------------------------------------
 
+Console.WriteLine("Operatory");
 //zadanie 1
 operatory_zad1 op_zad1 = new operatory_zad1();
 op_zad1.wykonaj();
 
 
+//zadanie 2
+operatory_zad2 op_zad2 = new operatory_zad2();
+op_zad2.wykonaj();
